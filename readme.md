@@ -33,6 +33,8 @@ Managing infastructure by code
 | Modularity                 | o            | x           |
 | Multi Cloud                | o            | x           |
 | Local Script               | o            | x           |
+| Existing Infra Import      | o            | x           |
+| Data Source                | o            | x           |
 
 ### 3. Template file vs CDK
 
